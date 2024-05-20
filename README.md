@@ -1,2 +1,2 @@
 # COOKIE-TOKEN
-<code style="color : green"> get cookie and token </code>
+<code Style="color : green">get cookie and token</code>
