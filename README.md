@@ -1,2 +1,2 @@
 # COOKIE-TOKEN
-$${\color{green}JE\spaceT'AIME\spaceJHOVANIA💗}$$
+$${\color{green}JE \space T'AIME \space JHOVANIA \space 💗}$$
