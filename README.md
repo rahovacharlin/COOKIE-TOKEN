@@ -1,1 +1,1 @@
-# COOKIE-TOKEN
+# $${\color{red}COOKIE-TOKEN}$$
